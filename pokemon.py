@@ -18,5 +18,5 @@ while True :
         p.color = color.white
         g.color = color.black
     if ' ' in k:
-        print('당첨되셨습니다')
+        print('축하합니다! 당첨되셨습니다!')
         break
